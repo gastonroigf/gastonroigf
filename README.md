@@ -1,2 +1,2 @@
 ### Hi there 👋
-## Software Engineering Student, ORT University Uruguay
+### Software Engineering Student, ORT University Uruguay
