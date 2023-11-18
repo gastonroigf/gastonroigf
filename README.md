@@ -1,1 +1,1 @@
-### Software Engineering Student, ORT University Uruguay
+### Software Engineering @ ORT University
